@@ -1,7 +1,7 @@
-🚀 Rocket Rush - 2D Physics Space Game
+Rocket Rush - 2D Physics Space Game
 A momentum-based arcade game developed in Unity 6 as a BCA Minor Project.
 
-🕹️ [Play the Game Here (Itch.io)](https://sid123456-alt.itch.io/rocketrush) 
+[Play the Game Here (Itch.io)](https://sid123456-alt.itch.io/rocketrush) 
 
 Project Overview:-
 Rocket Rush is a high-octane survival game where players navigate a rocket through an asteroid field. The project focuses on **realistic inertia** and **physics-based movement** to simulate a space environment.
